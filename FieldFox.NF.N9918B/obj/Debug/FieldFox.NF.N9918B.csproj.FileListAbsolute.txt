@@ -1,0 +1,7 @@
+C:\Users\ae1\source\repos\Output\FF-NF-N9918B\FieldFox.NF.N9918B.dll
+C:\Users\ae1\source\repos\Output\FF-NF-N9918B\FieldFox.NF.N9918B.pdb
+C:\Users\ae1\source\repos\FieldFox.NF.N9918B\FieldFox.NF.N9918B\obj\Debug\FieldFox.NF.N9918B.csprojAssemblyReference.cache
+C:\Users\ae1\source\repos\FieldFox.NF.N9918B\FieldFox.NF.N9918B\obj\Debug\FieldFox.NF.N9918B.csproj.CoreCompileInputs.cache
+C:\Users\ae1\source\repos\FieldFox.NF.N9918B\FieldFox.NF.N9918B\obj\Debug\FieldFox.NF.N9918B.csproj.CopyComplete
+C:\Users\ae1\source\repos\FieldFox.NF.N9918B\FieldFox.NF.N9918B\obj\Debug\FieldFox.NF.N9918B.dll
+C:\Users\ae1\source\repos\FieldFox.NF.N9918B\FieldFox.NF.N9918B\obj\Debug\FieldFox.NF.N9918B.pdb

@@ -1,0 +1,14 @@
+﻿1. Set up the noise source and ENR table, using: CORR:ENR:MOD and set to TABLe or SPOT
+2. And then
+- For SPOT commands in the Noise Source / ENR table below (*.enr)
+4. Set the noise bandwidth, using the NBANDwidth command
+5. Set the number of points
+6. Enter a DUT setup type, using the DUT commands table
+7. Set the frequency range, using Frequency commands table
+8. Setup Integration, using the Integration commands table
+9. Set the uncertainty contributions, using Uncertainty commands table
+10. If you haven't run a receiver calibration, then perform a Receiver Cal, using the Calibration
+commands table
+11. Run a user calibration, using Calibration commands table
+12. Set the type of noise figure measurement (Noise Figure (NFIG), Noise Factor (NFAC), Gain
+(GAIN), Noise Temperature (NTEM), or Y-Factor (YFAC))
